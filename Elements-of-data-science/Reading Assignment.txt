@@ -1,0 +1,8 @@
+EPFL Reading Assignment
+03 A first Look at R
+
+Unit 
+03. Variables
+04. Functions
+05. Working with functions_ Discovering Stringr
+06. Working with vectors_ Discovering collections
